@@ -1,0 +1,14 @@
+div#example1 {
+  width: 200px;
+  height: 200px;
+  border: 20px solid black;
+  background-color: red;
+  box-sizing: content-box;
+}
+div#example2 {
+  width: 200px;
+  height: 200px;
+  border: 20px solid black;
+  background-color: blue;
+  box-sizing: border-box;
+}

@@ -1,0 +1,37 @@
+div#example1 {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  margin: 20px 0;
+}
+
+div#example2 {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+  margin: 20px 0;
+}
+
+div#example3 {
+  border: 20px solid red;
+  margin: 20px 0;
+}
+div#example4 {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+  margin: 20px 0;
+}
+
+div#example5 {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  margin: 20px 0;
+}
+div#example6 {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  margin: 20px 0;
+}
