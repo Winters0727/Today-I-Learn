@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link type="text/css" rel="stylesheet" href="index.css" />
+    <script defer src="index.js"></script>
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="app" id="setinterval">
+      <div class="title">setInterval</div>
+      <div class="loading" id="sit-loading">
+        <div class="progress-bar" id="sit-progress"></div>
+      </div>
+      <div class="loading-percent" id="sit-percent">0%</div>
+      <div class="loading-text">now loading...</div>
+    </div>
+    <div class="app" id="requestanimationframe">
+      <div class="title">requestAnimationFrame</div>
+      <div class="loading" id="raf-loading">
+        <div class="progress-bar" id="raf-progress"></div>
+      </div>
+      <div class="loading-percent" id="raf-percent">0%</div>
+      <div class="loading-text">now loading...</div>
+    </div>
+    <button id="execute-btn">재실행</button>
+  </body>
+</html>
